@@ -15,6 +15,10 @@
 }
 
 .main-title {
+    max-width: 495px;
+    width: 100%;
+    margin-top: 203px;
+    margin-left: 200px;
     color: #1B0A42;
     font-family: Ramaraja;
     font-size: 72px;
@@ -23,4 +27,17 @@
     line-height: 76px;
     /* 105.556% */
     letter-spacing: 1.44px;
+}
+
+.main-info {
+    max-width: 583px;
+    width: 100%;
+    color: #9A9A9A;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+    letter-spacing: 0.4px;
 }
